@@ -10,13 +10,15 @@ Welcome to TileVania, a 2D platformer game inspired by classic Mario games. Deve
 ## Screenshots
 Here are some glimpses of TileVania in action!
 
-* **Level 1**
-  <img src="https://github.com/mdzdmr/TileVania/assets/155291636/41e3bd64-4ba1-4370-a9f2-bc7886a24a2a" width="600">
+<div align="center">
 
-* **Level 2**
-  <img src="https://github.com/mdzdmr/TileVania/assets/155291636/9d19cd01-96ee-48c0-bafb-b2dd031487da" width="600">
+  ### Level 1
+  <img src="https://github.com/mdzdmr/TileVania/assets/155291636/41e3bd64-4ba1-4370-a9f2-bc7886a24a2a" alt="TileVania Level 1" width="600">
 
-* **Level 3**
-  <img src="https://github.com/mdzdmr/TileVania/assets/155291636/83d779f0-0cc5-489b-9a2a-3af47cd610bd" width="600">
+  ### Level 2
+  <img src="https://github.com/mdzdmr/TileVania/assets/155291636/9d19cd01-96ee-48c0-bafb-b2dd031487da" alt="TileVania Level 2" width="600">
 
+  ### Level 3
+  <img src="https://github.com/mdzdmr/TileVania/assets/155291636/83d779f0-0cc5-489b-9a2a-3af47cd610bd" alt="TileVania Level 3" width="600">
 
+</div>
