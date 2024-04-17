@@ -2,8 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Bullet : MonoBehaviour
-{
+public class Bullet : MonoBehaviour {
+    
     [SerializeField] float bulletSpeed = 20f;
     Rigidbody2D myRigidbody;
     PlayerMovement player;
