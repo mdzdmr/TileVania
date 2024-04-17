@@ -2,7 +2,6 @@
 Welcome to TileVania, a 2D platformer game inspired by classic Mario games. Developed using C# and the Unity game engine, this project takes advantage of Unity’s Tilemap tool to create immersive levels and environments. Dive into a world of challenging gameplay and engaging mechanics, all wrapped in a visually appealing package.
 
 ## Features
-- 2D platformer mechanics similar to classic Mario games.
 - Level design and environment creation using Unity's Tilemap tool.
 - Seamlessly integrated graphics and assets.
 - Continuous playtesting and optimization for smooth performance.
