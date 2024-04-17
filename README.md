@@ -19,6 +19,6 @@ Here are some glimpses of TileVania in action!
   <img src="https://github.com/mdzdmr/TileVania/assets/155291636/9d19cd01-96ee-48c0-bafb-b2dd031487da" alt="TileVania Level 2" width="600">
 
   ### Level 3
-  <img src="https://github.com/mdzdmr/TileVania/assets/155291636/83d779f0-0cc5-489b-9a2a-3af47cd610bd" alt="TileVania Level 3" width="600">
+  <img src="https://github.com/mdzdmr/TileVania/assets/155291636/83d779f0-0cc5-489b-9a2a-3af47cd610bd" alt="TileVania Level 3">
 
 </div>
