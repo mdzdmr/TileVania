@@ -22,3 +22,8 @@ Here are some glimpses of TileVania in action!
   <img src="https://github.com/mdzdmr/TileVania/assets/155291636/83d779f0-0cc5-489b-9a2a-3af47cd610bd" alt="TileVania Level 3">
 
 </div>
+
+## Contributing
+Contributions to this project are welcome! Here are a few ways you can help improve the project:
+- Report issues and suggest enhancements.
+- Submit pull requests with bug fixes or new features.
